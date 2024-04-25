@@ -1,0 +1,3 @@
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursService\obj\Debug\ConcursService.csproj.AssemblyReference.cache
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursService\obj\Debug\ConcursService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursService\obj\Debug\ConcursService.csproj.CoreCompileInputs.cache

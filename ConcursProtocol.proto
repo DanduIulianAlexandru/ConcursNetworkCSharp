@@ -1,0 +1,50 @@
+syntax="proto3";
+package concurs.networking;
+
+
+message Admin{
+	string id = 1;
+	string username = 2;
+	string password = 3;
+}
+
+message Proba{
+	string id = 1;
+	string distanta = 2;
+	string stil = 3;
+	string nrParticipanti = 4;
+}
+
+message Participant{
+	string id = 1;
+	string nume = 2;
+	string varsta = 3;
+	string probe = 4;
+}
+
+message ConcursRequest{
+	enum Type {Unknown = 0; Login = 1; Logout = 2; GetProbe = 3; CautaParticipanti = 4; AddParticipant = 5; GetParticipanti = 6; GetProba = 7; }
+	
+	Type type = 1;
+	
+	oneof payload{
+		Admin admin = 2;
+		Participant participant = 3;
+		string idProba = 4;
+		string searchString = 5;
+	}
+}
+
+message ConcursResponse{
+	enum Type { Unknown=0; Ok = 1; Error = 2; AddedParticipant = 3; GetProbe = 4; GetParticipanti = 5; GetProba = 6; SearchedParticipanti = 7; }
+	
+	Type type = 1;
+	
+	string error = 2;
+	repeated Proba probe = 3;
+	repeated Participant participanti = 4;
+	Proba proba = 5;
+	Admin admin = 6;
+	Participant participant = 7;
+	
+}

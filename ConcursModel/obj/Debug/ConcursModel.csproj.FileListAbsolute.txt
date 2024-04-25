@@ -1,0 +1,12 @@
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursModel\obj\Debug\ConcursModel.csproj.AssemblyReference.cache
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursModel\obj\Debug\ConcursModel.csproj.CoreCompileInputs.cache
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursModel\bin\Debug\ConcursModel.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursModel\bin\Debug\ConcursModel.pdb
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursModel\obj\Debug\ConcursModel.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursModel\obj\Debug\ConcursModel.pdb
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursModel\bin\Debug\ConcursModel.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursModel\bin\Debug\ConcursModel.pdb
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursModel\obj\Debug\ConcursModel.csproj.AssemblyReference.cache
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursModel\obj\Debug\ConcursModel.csproj.CoreCompileInputs.cache
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursModel\obj\Debug\ConcursModel.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursModel\obj\Debug\ConcursModel.pdb

@@ -1,0 +1,76 @@
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\obj\Debug\ConcursServices.csproj.AssemblyReference.cache
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\obj\Debug\ConcursServices.csproj.CoreCompileInputs.cache
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\ConcursServices.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\ConcursServices.pdb
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\ConcursModel.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\ConcursPersistence.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\Npgsql.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\log4net.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\System.Memory.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\System.Threading.Channels.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\System.Buffers.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\ConcursModel.pdb
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\ConcursPersistence.pdb
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\ConcursPersistence.dll.config
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\Npgsql.xml
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\log4net.xml
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\System.Memory.xml
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\System.Threading.Channels.xml
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\System.Buffers.xml
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\obj\Debug\ConcursServices.csproj.CopyComplete
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\obj\Debug\ConcursServices.dll
+C:\Users\Mescareid\OneDrive\Desktop\Facultate\MPP\Csharp\ConcursNetwork\ConcursNetwork\ConcursServices\obj\Debug\ConcursServices.pdb
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\ConcursServices.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\ConcursServices.pdb
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\ConcursModel.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\ConcursPersistence.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\Npgsql.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\log4net.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\System.Memory.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\System.Threading.Channels.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\System.Buffers.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\ConcursModel.pdb
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\ConcursPersistence.pdb
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\ConcursPersistence.dll.config
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\Npgsql.xml
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\log4net.xml
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\System.Memory.xml
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\System.Threading.Channels.xml
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\System.Collections.Immutable.xml
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\System.Buffers.xml
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\obj\Debug\ConcursServices.csproj.AssemblyReference.cache
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\obj\Debug\ConcursServices.csproj.CoreCompileInputs.cache
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\obj\Debug\ConcursServices.csproj.CopyComplete
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\obj\Debug\ConcursServices.dll
+C:\Users\dandu\OneDrive\Desktop\MPP\a lot\ConcursNetwork\ConcursServices\obj\Debug\ConcursServices.pdb

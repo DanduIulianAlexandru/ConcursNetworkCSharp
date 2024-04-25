@@ -1,0 +1,1 @@
+Client-server application in C#, utilizing Protocol Buffers for efficient data communications and Windows Forms for the user interface. 
